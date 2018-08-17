@@ -1,13 +1,13 @@
 # Quests-of-the-Round-Table
 
-## Team #4 
+Final project for COMP 3004 @ Carleton University.
 
-## Github Username - Names - Student # - Email
+Java SpringBoot app for a multiplayer, networked card game.
 
-* d4sh - Akhil Dalal - 100855466 - akhildalal@cmail.carleton.ca 
-* ChristopherBlackman - Christopher Blackman - 100992827 -  christopher.blackman@carleton.ca
-* k1c - Carolyne Pelletier - 101054962 - carolynepelletier@cmail.carleton.ca
-* AlexaDeGrandmont - Alexa de Grandmont - 100970009 - alexadegrandmont@cmail.carleton.ca
+## Team:
+### Github Username - Names
 
-TA: Xiusan
-XiusanZhou@cmail.carleton.ca
+* d4sh - Akhil Dalal
+* ChristopherBlackman - Christopher Blackman
+* k1c - Carolyne Pelletier
+* AlexaDeGrandmont - Alexa de Grandmont
